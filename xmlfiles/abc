@@ -1,0 +1,8 @@
+data = {
+'collection':{
+{"@shelf":'new arrival'}
+{'movie':{{'title':'abc'},{'title':'abc'},{'title':'abc'},{'title':'abc'}}}
+}
+}
+
+data[collection]['movie']['title']

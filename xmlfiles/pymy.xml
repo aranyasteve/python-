@@ -1,0 +1,35 @@
+<collection shelf="Phone Company">
+    <phone_name title="Apple">
+        <products>Advanced Smart phones</products>
+        <price_type>High Ranged phones </price_type>
+        <best_phone>iphone 11 pro max</best_phone>
+        <Os>Ios</Os>
+    </phone_name>
+    <phone_name title="Samsung">
+            <products> Advanced Smart Phones </products>
+            <price_type>Medium Ranged Phones</price_type>
+            <best_phone>samsung galaxy S20 Ultra +</best_phone>
+            <Os>Android</Os>
+    </phone_name>
+    <phone_name title="Huawei">
+        <products>Advanced Smart Phones </products>
+        <price_type>Medium Ranged Smart Phones</price_type>
+        <best_phone>Huawei p30 pro</best_phone>
+        <Os>Android</Os>
+    </phone_name>
+    <phone_name title ="Oneplus">
+        <products>Advanced Smart Phones </products>
+        <price_type>Medium Ranged Phones</price_type>
+        <best_phone>One Plus 8pro</best_phone>
+        <Os>Android</Os>
+    </phone_name>
+    <phone_name title="Lenovo">
+        <products>Normal Smart Phones</products>
+        <price_type>Normal Ranged Smart Phones</price_type>
+        <best_phone>Lenovo Z2 Plus</best_phone>
+        <Os>Android</Os>
+
+    </phone_name>
+
+
+</collection>

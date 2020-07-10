@@ -1,0 +1,51 @@
+[
+    {
+        "1": {
+            "Name": "Eg",
+            "Age": "Eg",
+            "Your total %": "Eg",
+            "grade": "Eg",
+            "address": "Eg",
+            "school name": "Eg"
+        },
+        "2": {
+            "Name": "aranya",
+            "Age": 12,
+            "Your total %": 100,
+            "grade": "8",
+            "address": "belapur",
+            "school name": "dypis nerul"
+        },
+        "3": {
+            "Name": "rajesh",
+            "Age": 51,
+            "Your total %": 98,
+            "grade": "a*",
+            "address": "belapur",
+            "school name": "atomic school"
+        },
+        "4": {
+            "Name": "stutu shukla",
+            "Age": 50,
+            "Your total %": 71,
+            "grade": "f",
+            "address": "belapur",
+            "school name": "st anthony"
+        },
+        "5": {
+            "Name": "ramsir",
+            "Age": 32,
+            "Your total %": 98,
+            "grade": "a***************************",
+            "address": "navi mumbai",
+            "school name": "school"
+        }
+    },
+    {
+        "1": {
+            "math": 45,
+            "Science": 42
+        }
+
+    }
+]

@@ -1,0 +1,25 @@
+science = input("enter your science marks")
+science = int(science)
+maths = input("enter your maths marks")
+maths = int(maths)
+english = input("enter your english marks")
+english = int(english)
+french = input("enter your french marks")
+french = int(french)
+history = input("enter yoour history marks")
+history = int(history)
+geography = input("enter your geography marks")
+geography = int(geography)
+hindi = input("enter your hindi marks")
+hindi = int(hindi)
+computer = input("enter your computer marks")
+computer = int(computer)
+result = (science+maths+english+french+history+geography+hindi+computer)
+# result= (result)
+print("your result is", result)
+if(result > 160):
+   print("good")
+
+
+else:
+    print("improve")
