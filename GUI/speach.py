@@ -6,9 +6,9 @@ engine = pyttsx3.init()
 class speech():
     def __init__(self):
         self.top = Tk()
-        self.img = PhotoImage(file="g.png")
-        self.top.iconphoto(False, self.img)
-        self.photo = self.img.subsample(17, 17)
+        # self.img = PhotoImage(file="g.png")
+        # self.top.iconphoto(False, self.img)
+        # self.photo = self.img.subsample(17, 17)
         self.top.minsize(300, 200)
         self.top.resizable(height=False, width=False)
         self.top.title("Text Recognition")
